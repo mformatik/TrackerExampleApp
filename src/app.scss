@@ -1,0 +1,16 @@
+.alert {
+  padding: 1rem 0.5rem;
+  border-radius: 0.5rem;
+
+  .title {
+    font-size: 1.2rem;
+  }
+}
+
+.alert-light-primary {
+  background: #f1faff;
+
+  .title {
+    color: #071437;
+  }
+}
